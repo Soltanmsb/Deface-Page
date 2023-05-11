@@ -1,5 +1,5 @@
 # 𝐃𝐞𝐟𝐚𝐜𝐞 𝐏𝐚𝐠𝐞
-<h2>Developer 👨‍💻 : <a href='https://t.me/source_killer'>Source killer</a></h2>
+<h2>👨‍💻 Developer : <a href='https://t.me/source_killer'>Source killer</a></h2>
 <h3>All pages are animated 💪😍</h3>
 <hr>
 <h2>Picture Demo 1 📸</h2>
